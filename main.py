@@ -1,5 +1,5 @@
 """My Integration Program: Music Quiz!"""
-__author__ = "Terisha Theodat"
+__author__ = "T"
 
 
 def main():
@@ -255,3 +255,4 @@ def exit_quiz(user):
 # # call to main function
 if __name__ == "__main__":
     main()
+
